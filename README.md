@@ -1,15 +1,10 @@
-# DJS08 - React Router 
-
-For this challenge you are required to code along with the lecturer from this lesson: https://scrimba.com/learn/react/vanlife-project-bootstrapping-co8bc40b191eec875ecf00b23
-
-The starter code has all the CSS styling required from the project, you will just need to link the corresponding classes as you code along.
+# DJS08 Project Brief: React Router 
 
 After cloning the repo, run `npm install` to install the dependencies 
 
-
-# DJS06 Project Brief: Van Life (Scrimba)
-
 Are you ready to get stuck into some React Router? For this challenge, you are required to code along with the lecturer from this lesson: [VanLife Project Bootstrapping](https://scrimba.com/learn/react/vanlife-project-bootstrapping-co8bc40b191eec875ecf00b23).
+
+For this challenge you are required to code along with the lecturer from this lesson: https://scrimba.com/learn/react/vanlife-project-bootstrapping-co8bc40b191eec875ecf00b23
 
 The starter code has all the CSS styling required for the project; you will just need to link the corresponding classes as you code along. Jump into the start code here: [GitHub Repository](https://github.com/CodeSpace-Academy/StudentNo_Classcode_Group_Name-Surname_DJS08/tree/main).
 
