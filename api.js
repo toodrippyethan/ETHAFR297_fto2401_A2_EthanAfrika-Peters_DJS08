@@ -1,3 +1,23 @@
+
+import { initializeApp } from "firebase/app";
+import { getFirestore } from "firebase/firestore"
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyAK1l8w3e3MBekZAwTvvyL8a8Jr8RluK_I",
+  authDomain: "ethan-van-life-96c43.firebaseapp.com",
+  projectId: "ethan-van-life-96c43",
+  storageBucket: "ethan-van-life-96c43.appspot.com",
+  messagingSenderId: "115699125935",
+  appId: "1:115699125935:web:d7d63c756fba4191268e5a"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const db = getFirestore(app)
+
+
+
 export async function getVans(id) {
     const url = id ? `/api/vans/${id}` : "/api/vans"
     const res = await fetch(url)
