@@ -1,3 +1,10 @@
+LOOM LINK
+
+https://www.loom.com/share/441c456531654f5990827cae6035046e?sid=1c60d04e-eb1c-45e0-889f-e0772c05107b
+
+
+
+
 # co9c94314a45694f6736957f6
 
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
